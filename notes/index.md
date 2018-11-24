@@ -7,3 +7,4 @@
 * [哈佛大学深度学习项目](https://github.com/Spandan-Madan/DeepLearningProject)
 * [Machine Learning with Python: from Linear Models to Deep Learning](https://www.class-central.com/course/edx-machine-learning-with-python-from-linear-models-to-deep-learning-11483)
 * 一个基于 TensorFlow.js 的机器学习封装库，提供方便易用的 API，可以用于图像分类和视频分类等常见用途。 https://ml5js.org/
+* 深度学习从线性代数入门开始 https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/
